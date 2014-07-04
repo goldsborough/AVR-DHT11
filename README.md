@@ -13,3 +13,6 @@ the first byte [1] is the decimal part of the humidity, the second byte [2] is t
 part of the temperature and the last byte [3] is the decimal part of the temperature. Note
 however that the datasheets for the DHT11 sensor also state that the resolution of the sensor
 is 1, so I'm not sure whether the decimal bytes are actually ever used. 
+
+
+Blog post: http://thecodeinn.blogspot.co.at/2014/07/reading-data-from-dht11-sensor-with-avr.html
