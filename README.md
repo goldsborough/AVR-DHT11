@@ -3,7 +3,7 @@ AVR-DHT11
 
 AVR code to interface with the DHT11 temperature and relative humidity sensors. 
 
-As of now, this code is written for Attiny85 @8Mhz, but it shouldn't take more than a 
+This code is written for Attiny85 @8Mhz, but it shouldn't take more than a 
 few seconds to make it work with any other Atmel AVR chip. Just change the clock speed
 in the header file and possibly the prescalers to match the speeds described.
 
